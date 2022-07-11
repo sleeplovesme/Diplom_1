@@ -26,7 +26,7 @@ public class IngredientTypeTest {
     }
 
     @Test
-    public void ingredientTypeTest() {
+    public void ingredientType() {
         assertEquals(expected, actual.toString());
     }
 }

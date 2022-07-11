@@ -9,7 +9,7 @@ import org.mockito.junit.MockitoJUnitRunner;
 import static org.junit.Assert.*;
 
 @RunWith(MockitoJUnitRunner.class)
-public class BurgerTests {
+public class BurgerTest {
 
     @Mock
     Bun bun;
